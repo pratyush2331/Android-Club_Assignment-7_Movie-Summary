@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "newyorkTimes",
+    "slug": "newyorkTimes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
